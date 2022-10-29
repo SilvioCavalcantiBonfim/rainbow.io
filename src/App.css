@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  vertical-align: middle;
+  position: relative;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  animation: show 1s cubic-bezier(.56, -0.04, .32, .7) forwards;
+}
+
+
+@keyframes show {
+  from {
+      opacity: 0
+  }
+
+  to {
+      opacity: 1
+  }
+}
+
+.title{
+  line-height: 100px;
+  font-family: 'title';
+  text-transform: uppercase;
+  font-size: 100px;
+}
+
+
+.conteiner__title{
+  padding-top: calc(50vh - 50px);
+  display: flexbox;
+  width: 100vw;
+}
+.subtitle{
+  text-transform: uppercase;
+  font-weight: bold;
+}
