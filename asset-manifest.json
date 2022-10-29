@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rainbow.io/static/css/main.87fac275.css",
+    "main.js": "/rainbow.io/static/js/main.d307a071.js",
+    "static/media/aAbstractGroovy.ttf": "/rainbow.io/static/media/aAbstractGroovy.bf4eed7c0fc55747fcee.ttf",
+    "index.html": "/rainbow.io/index.html",
+    "main.87fac275.css.map": "/rainbow.io/static/css/main.87fac275.css.map",
+    "main.d307a071.js.map": "/rainbow.io/static/js/main.d307a071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fac275.css",
+    "static/js/main.d307a071.js"
+  ]
+}
