@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+ # Rainbow.IO
+ 
+ ![GitHub](https://img.shields.io/badge/-React.JS-%2361dafb?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAACC0lEQVRIidXV32uPcRQH8NeQ/MhmW6uNcoW4mV+XbtzMBbk1tuRfcKfGhUuKuSRDEdaGK4nS8mPNpV0gQgwtalOjpmkyF5/zbY9nz7N8L/euT53P+fF5f55znnM+LHQsnsfWhE60YBTTOftK7MYufMbPaohr8RF9uBtyR8beiU9h68MIVlVD0Ilbmf02vMQZdIe8NWO/jYNFBy0pIViP4cx+GDvxKvabMZGxP4uYOVhUQjCDpTndYakWoyFnsQx/qiF4E7eERrTjFK7jWsjtYYNNeFt0UFGKWqSc78V4+NTiIfaEzxB68QO/sRzvMYgvJZfWiAsYQw8+oE0qbG+Bf2/Y2sK3J2LPoyHv3IAXOG32d+vCHamY67AlbvgEraGbCJ+uiKkN0ueozxIcx8Uc6RqpuU7EflAq/kyQCNt0+GZxGcf4t8hlBa9gpkQuQk3ep15KUTfqQpdPUWvc/LHyFNXhrJSi1XnWBqlA41K6qi3ypYg9p6DIWTRL//lkBHyXmmgAD2INhO57+EziZMT+Fw6gP+RKo03hSKwp/zbaTewvOqhsFm00O3e+SROzGYdCdzR0FbzGhqKDyv6cGvzK6a5ibawrOdtU2VllBO+kcVHBDjzFjVhD2J6zF86iMlQenH7cDzk77zukB+eelP8RJQ9OzTwkTdiHr3hk7pO4Qnoum6VeGKvmCxYO/gK3ZYSJmm/SDQAAAABJRU5ErkJggg==)
+ 
+ # Resumo
+ 
+ Projeto simples criado para estudar useStates, evento OnMouseMove e esquema de cores HSL. Seu objetivo é o usuário mover o mouse sobre a página e gerar cores que ao clicar são copiadas no formato de variaveis CSS.
+ 
+ ![download](https://user-images.githubusercontent.com/89864715/201575398-5f66a40a-ee2b-41ea-9fd6-302fc1d67462.jpeg)
+ 
+ # screenshots
+ 
+ ![initrainbow](https://user-images.githubusercontent.com/89864715/201575225-40646854-782b-457c-b2a6-8ac7c664d364.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Contatos
 
-## Available Scripts
+[![twitter](https://img.shields.io/badge/%20-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SilvioCBONFIM)
+[![facebook](https://img.shields.io/badge/%20-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/silvio.cavalcanti.5)
+[![Gmail](https://img.shields.io/badge/%20-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silviocavalcanti2011@gmail.com)
+[![linkedin](https://img.shields.io/badge/%20-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-cavalcanti-1096768a/)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
