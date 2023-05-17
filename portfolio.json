@@ -1,5 +1,5 @@
 {
-    "project": "Asteroids",
+    "project": "Rainbow.IO",
     "frameworks": ["createreactapp"],
-    "description": "Sistema em javascript baseado no jogo asteroids."
+    "description": "Projeto que determina uma cor com base na posição do mouse na tela."
 }
