@@ -1,5 +1,15 @@
 {
     "project": "Rainbow.IO",
-    "frameworks": ["createreactapp"],
-    "description": "Projeto que determina uma cor com base na posição do mouse na tela."
+    "technologies": [
+        {
+            "name": "React",
+            "iconUrl": "https://cdn.simpleicons.org/react"
+        }
+    ],
+    "deploy": [{
+        "url": "https://silviocavalcantibonfim.github.io/rainbow.io/",
+        "urlIcon":"https://cdn.simpleicons.org/githubpages"
+    }],
+    "description": "Projeto que determina uma cor com base na posição do mouse na tela.",
+    "thumbnailUrl": "https://raw.githubusercontent.com/SilvioCavalcantiBonfim/rainbow.io/main/thumb.png"
 }
